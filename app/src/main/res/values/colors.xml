@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorStarFilled">#FFD700</color>
+    <color name="colorStarEmpty">#B0B0B0</color>
+    <color name="colorPrimary">#6200EE</color> <!-- Thay đổi giá trị màu nếu cần -->
+    <color name="colorPrimaryDark">#3700B3</color> <!-- Thay đổi giá trị màu nếu cần -->
+    <color name="colorAccent">#03DAC5</color> <!-- Thay đổi giá trị màu nếu cần -->
+</resources>
